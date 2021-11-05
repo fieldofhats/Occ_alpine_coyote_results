@@ -9,6 +9,6 @@ output:
 
 
 
-### Prey Species results notes:
+### Coyote occupancy model results
 
 <br><br/>
