@@ -1,0 +1,32 @@
+name: "Coyote Results"
+output_dir: "docs"
+navbar:
+  title: "Alpine meso results, Coyote"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "Model Background"
+    href: ModelBackground_ResidualsBackground.html
+  - text: "Morans I example"
+    href: MoransI_Example.html
+  - text: "sp Eigenvector Mapping"
+    href: SpatialEigenvectorMapping_Example.html
+  - text: "reverse jump alpha"
+    href: alpha_reverse_results.html
+  - text: "reverse jump beta"
+    href: beta_reverse_results.html
+  - text: "top model occ vals"
+    href: alpha_significant_beta_year_psiVals.html
+  - text: "top model fit"
+    href: top_model_fit_Itesting.html
+  - text: "sevm reversible jump"
+    href: sevm_alpha_beta_reverse_results.html
+  - text: "sevm model results"
+    href: sevm_select_top_model_results.html
+  - text: "sevm top model fit"
+    href: top_model_fit_Itesting_sevm.html
+  - text: "prey species results"
+    href: prey_covs_sevm_results.html
+output:
+  html_document:
+    theme: cosmo
