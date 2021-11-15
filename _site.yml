@@ -7,6 +7,8 @@ navbar:
     href: index.html
   - text: "Model Background"
     href: ModelBackground_ResidualsBackground.html
+  - text: "Input output summary"
+    href: data_input_and_output_summary.html
   - text: "Morans I example"
     href: MoransI_Example.html
   - text: "sp Eigenvector Mapping"
